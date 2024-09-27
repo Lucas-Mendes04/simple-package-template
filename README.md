@@ -1,27 +1,23 @@
-# package_name
+# Pacote Gerador Senha
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+O pacote de gerador de senha é usado para:
+
+	- Criar senhas
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Usar o gerenciadro do pacote [pip](https://pip.pypa.io/en/stable/) para instalar o pacote gerador de senha
 
 ```bash
-pip install package_name
+pip install gerador_senha
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from gerador_senha import senha
+senha.password_generator()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Lucas
